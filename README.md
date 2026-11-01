@@ -1,3 +1,3 @@
 # YouAreAnIdiot
-This is the official HTML5 port of the legendary, infamous 'YouAreAnIdiot' JS Trojan ☺ ☺ ☺. Although the original was dangerous, this version is completely harmless. Once found on www.youdontknowwhoiam.org, it is preserved here.
+The safe version of the legendary infamous YouAreAnIdiot JS Trojan ☺ ☺ ☺.
 Collaborators: Capybara930s, tubers93x and TheGeekPug.
